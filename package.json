@@ -1,5 +1,5 @@
 {
-  "name": "react-spinner",
+  "name": "@ksvkabra/react-spinner",
   "version": "0.1.0",
   "private": false,
   "main": "dist/index.js",
