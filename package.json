@@ -1,8 +1,11 @@
 {
   "name": "@ksvkabra/react-spinner",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "private": false,
   "main": "dist/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
